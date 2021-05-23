@@ -59,6 +59,14 @@ h1 {
   #title {
   text-align: center;
   }
+  #pricing {
+  text-align: center;
+  padding: 40px;
+  }
+
+  .card-column {
+  padding: 2% 2%;
+  }
 }
 
 /* FEATURES SECTION */
